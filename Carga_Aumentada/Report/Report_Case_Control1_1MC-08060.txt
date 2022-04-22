@@ -1,0 +1,98 @@
+
+       HC IMPACT STUDY (VOLTAGE LIMITS COMPLIANCE)
+----------------------------------------------------
+Key : Circuito , Value : Case_Control1
+Key : Total Customers , Value : 265
+Key : % GD Penetration (CAP. SE MAX 80%) , Value : 66.07936507936509
+Key : Total GD installed in kW , Value : 6938.333333333334
+Key : Customers with PV , Value : 220
+Key : GD average per customer in kW , Value : 26.18238993710692
+Key : Maximum Voltage (pu) , Value : 1.1325844564025473
+Key : Minimum Voltage (pu) , Value : 0.8952834721509338
+Key : MC Case , Value : 0
+Key : % GD Penetration (NUM. CURSTOMERS) , Value : 83
+Key : Index Time Issue , Value : 77
+Key : Time Issue Hours , Value : 12:50
+Key : Maximum % customer with issues , Value : 7.638888888888888
+Key : Index Customer Issue , Value : 461
+Key : Node Name Customer Issue , Value : nd_252415.3
+Key : Customer Distance from Substation in km , Value : 3.181
+Key : Max Feeder Utilization % , Value : 71.64259982888406
+
+       HC IMPACT STUDY (VOLTAGE min LIMITS COMPLIANCE)
+----------------------------------------------------
+Key : Circuito , Value : Case_Control1
+Key : Total Customers , Value : 265
+Key : % GD Penetration (CAP. SE MAX 80%) , Value : 46.13650793650794
+Key : Total GD installed in kW , Value : 4844.333333333333
+Key : Customers with PV , Value : 152
+Key : GD average per customer in kW , Value : 18.280503144654087
+Key : Minimum Voltage (pu) , Value : 0.8580240150605786
+Key : Maximum Voltage (pu) , Value : 1.0311493540552479
+Key : MC Case , Value : 0
+Key : % GD Penetration (NUM. CURSTOMERS) , Value : 57
+Key : Index Time Issue , Value : 64
+Key : Time Issue Hours , Value : 10:40
+Key : Maximum % customer with issues , Value : 6.944444444444445
+Key : Index Customer Issue , Value : 455
+Key : Node Name Customer Issue , Value : nd_252411.3
+Key : Customer Distance from Substation in km , Value : 3.111
+Key : Max Feeder Utilization % , Value : 71.0887307584239
+
+
+       HC IMPACT STUDY (CURRENT LIMITS)
+----------------------------------------------------
+Key : Circuito , Value : Case_Control1
+Key : Total Customers , Value : 265
+Key : % GD Penetration (CAP. SE MAX 80%) , Value : 66.07936507936509
+Key : Total GD installed in kW , Value : 6938.333333333334
+Key : Customers with PV , Value : 220
+Key : % GD penetration , Value : 83
+Key : % Line Utilization 83 , Value : 80.42694577420112
+Key : Minimum Voltage (pu) , Value : 0.8952834721509338
+Key : Maximum Voltage (pu) , Value : 1.1325844564025473
+Key : MC Case , Value : 0
+Key : Index Time , Value : 139
+Key : Time Issue Hours , Value : 11:35
+Key : Index Section , Value : 7
+Key : Feeder Name , Value : oh_123420
+Key : Feeder [Bus1,Bus2] , Value : [10, ('nd_136199', 'nd_136201')]
+Key : Total Number of Customer Served , Value : [262, '99%']
+Key : Number of Customers on this Line Section , Value : 2
+Key : Max Feeder Utilization % , Value : 71.64259982888406
+
+
+       HC IMPACT STUDY (VOLTAGE LIMITS SUP)
+----------------------------------------------------
+Key : Circuito , Value : Case_Control1
+Key : Total Customers , Value : 265
+Key : % GD Penetration (CAP. SE MAX 80%) , Value : 54.438095238095244
+Key : Total GD installed in kW , Value : 5716.0
+Key : Customers with PV , Value : 175
+Key : % GD penetration , Value : 66
+Key : Voltage Issue (pu) , Value : 1.0502984493540883
+Key : Index Node , Value : 44
+Key : Node Name , Value : nd_136197.3
+Key : Node Distance from Substation in km , Value : 0.116
+Key : MC Case , Value : 0
+Key : Index Time , Value : 181
+Key : Time Issue Hours , Value : 15:05
+Key : Max Feeder Utilization % , Value : 64.4926681869793
+
+
+       HC IMPACT STUDY (VOLTAGE LIMITS INF)
+----------------------------------------------------
+Key : Circuito , Value : Case_Control1
+Key : Total Customers , Value : 265
+Key : % GD Penetration (CAP. SE MAX 80%) , Value : 46.13650793650794
+Key : Total GD installed in kW , Value : 4844.333333333333
+Key : Customers with PV , Value : 152
+Key : % GD penetration , Value : 57
+Key : Voltage Issue (pu) , Value : 0.8580240150605786
+Key : Index Node , Value : 5
+Key : Node Name , Value : mrd04015.3
+Key : Node Distance from Substation in km , Value : 0.0
+Key : MC Case , Value : 0
+Key : Index Time , Value : 157
+Key : Time Issue Hours , Value : 13:05
+Key : Max Feeder Utilization % , Value : 71.0887307584239
