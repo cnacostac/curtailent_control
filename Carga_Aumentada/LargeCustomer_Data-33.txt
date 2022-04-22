@@ -1,5 +1,0 @@
-New Load.Load_super_mercado Phases=3 Bus1=node_4444004931 kv=13.8 kw=402 kvar=8 model=1 conn=delta
-New Load.Load_particular_1 Phases=3 Bus1=node_48544838831 kv=13.8 kw=179 kvar=83 model=1 conn=delta
-New Load.Load_departamental Phases=3 Bus1=node_48544907635 kv=13.8 kw=216 kvar=49 model=1 conn=delta
-New Load.Load_deportivo Phases=3 Bus1=mh_6410+ kv=13.8 kw=215 kvar=84 model=1 conn=delta
-New Load.Load_parituclar_2 Phases=3 Bus1=node_48544778629 kv=13.8 kw=242 kvar=66 model=1 conn=delta

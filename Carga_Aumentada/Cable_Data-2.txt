@@ -1,3 +1,0 @@
-New CNData.1/0(19×)cu_1/0cu_2 k=16 DiaStrand=0.292 Rstrand=0.0550625 epsR=2.3 InsLayer=0.21000000000000008 DiaIns=0.85 DiaCable=0.93 Rac=0.555 GMRac=0.01113 Normamps=310 emergamps=93 diam=0.368 Runits=mi Radunits=in GMRunits=ft
-New CNData.3/0(19×)cu_3/0cu_2/0 k=16 DiaStrand=0.414 Rstrand=0.0275 epsR=2.3 InsLayer=0.22999999999999998 DiaIns=0.95 DiaCable=1.02 Rac=0.349 GMRac=0.01559 Normamps=420 emergamps=126 diam=0.492 Runits=mi Radunits=in GMRunits=ft
-New CNData.3/0(19×)cu_3/0cu_2 k=16 DiaStrand=0.292 Rstrand=0.0550625 epsR=2.3 InsLayer=0.22999999999999998 DiaIns=0.95 DiaCable=1.02 Rac=0.349 GMRac=0.01559 Normamps=420 emergamps=126 diam=0.492 Runits=mi Radunits=in GMRunits=ft
